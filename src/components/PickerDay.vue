@@ -147,6 +147,7 @@ export default {
     changeMonth (incrementBy) {
       let date = this.pageDate
       date.setMonth(date.getMonth() + incrementBy)
+      this.$parent.$emit('changedMonth', date)
       this.$emit('changedMonth', date)
     },
     /**
