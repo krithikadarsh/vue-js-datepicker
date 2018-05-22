@@ -1,5 +1,5 @@
 {
-  "name": "vuejs-datepicker",
+  "name": "@nyonair/vuejs-datepicker",
   "version": "1.3.1",
   "description": "A simple Vue.js datepicker component. Supports disabling of dates, inline mode, translations",
   "keywords": [
@@ -15,7 +15,7 @@
     "src",
     "dist"
   ],
-  "author": "Charlie Kassel <ck@charliekassel.com>",
+  "author": "Pierre Schweiger <schweiger.pierre@gmail.com>, Charlie Kassel <ck@charliekassel.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/charliekassel/vuejs-datepicker"
